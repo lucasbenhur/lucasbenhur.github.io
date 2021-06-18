@@ -3,7 +3,7 @@ AluraDev um editor de texto online que te permite salvar seu código na aba comu
 
 ## Como rodar o projeto
 
-Basta clonar o repositório e abrir o index.html. Pode também usar o VsCode com a extensão "Live Server".
+Basta clonar o repositório e abrir o index.html no browser (recomendo o Chrome). Pode também usar o VsCode com a extensão "Live Server".
 
 ## Como utilizar
 
@@ -20,8 +20,8 @@ Basta clonar o repositório e abrir o index.html. Pode também usar o VsCode com
 ## Conteúdos
 
 - [Overview](#overview)
-  - [O Challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Funcionalidades](#funcionalidades)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [Processo](#processo)
   - [Contruido com](#construido-com)
@@ -70,7 +70,7 @@ Os usuarios serão capazes de:
 ### O que eu aprendi
 
 - Utilizar frameworks como:
-  - [BootStrap](https://getbootstrap.com)
+  - [Bootstrap](https://getbootstrap.com)
 - Utilizar bibliotecas como:
   - [Highlight JS](https://highlightjs.org)
   - [File Saver](https://github.com/eligrey/FileSaver.js)
@@ -79,6 +79,7 @@ Os usuarios serão capazes de:
   - [jQuery](https://jquery.com)
 - Desenvolvimento em grupo, ajudando e sendo ajudado no discord.
 - Utilizar o trello para organizar minhas tarefas.
+- Utilizar o figma para ver o design e baixar os ícones/imagens.
 
 ### Continuação do desenvolvimento
 
